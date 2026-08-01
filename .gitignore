@@ -1,0 +1,78 @@
+# =============================================================================
+# RelishClans — PUBLIC / docs-facing .gitignore
+# Copied to public repo as .gitignore by publish-docs.bat
+# For local plugin work: copy .gitignore.plugin over .gitignore
+# =============================================================================
+
+# Compiled / logs
+*.class
+*.log
+hs_err_pid*
+
+# Package archives
+*.jar
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
+!docs/assets/**
+
+# Plugin source and build (keep private)
+src/
+build/
+.gradle/
+out/
+run/
+target/
+pom.xml
+build.gradle
+build.gradle.kts
+gradle.properties
+gradlew
+gradlew.bat
+settings.gradle
+settings.gradle.kts
+gradle/
+
+# Allatori / release tooling
+allatori*.xml
+allatori.jar
+obfuscate*.bat
+obfuscate*.ps1
+
+# Auth, databases, local data
+auth/
+*.db
+*.db-shm
+*.db-wal
+*.json
+!docs/**/*.json
+
+# IDE
+.idea/
+*.iml
+*.iws
+.vscode/
+.settings/
+.project
+.classpath
+.idea_modules/
+
+# OS
+.DS_Store
+.DS_Store?
+._*
+Thumbs.db
+ehthumbs.db
+
+# Temp / roadmap / internal notes
+temp/
+tmp/
+*.tmp
+ROADMAP.md
+README-BUILTBYBIT.txt
+
+# Keep public surface intentional
+# Allowed: docs/, README.md, LICENSE, .gitignore, .github/
