@@ -16,7 +16,7 @@ Then restart or run `/clan reload` (admin). Check status with:
 /clan license
 ```
 
-Buy keys from the [M5LB Store](https://m5lb.run.place/?buy=relish-clans). Support: [Discord](https://discord.gg/jDr2KZcGXk).
+Buy keys from the [Relish Store](https://relishes.studio/product/relishclans). Support: [Discord](https://discord.gg/AdUjAtCsy6).
 
 If verification fails or the key is empty, **free features keep working**. Premium actions show an upgrade message instead of breaking the plugin.
 

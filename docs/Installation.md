@@ -21,7 +21,7 @@ Quick installation guide for RelishClans.
 6. (Optional) Install [PacketEvents](https://modrinth.com/plugin/packetevents) for client-side fake-player replay (Paper Mannequin works without it)
 7. Restart the server
 8. Edit `plugins/RelishClans/config.yml` and `lang/en.yml` as needed
-9. (Optional Premium) Set `license-key: "..."` from the [M5LB Store](https://m5lb.run.place/?buy=relish-clans), then restart or `/clan reload`
+9. (Optional Premium) Set `license-key: "..."` from the [Relish Store](https://relishes.studio/product/relishclans), then restart or `/clan reload`
 
 ## Verify Installation
 

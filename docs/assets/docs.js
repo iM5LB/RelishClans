@@ -471,7 +471,14 @@ function initSearch() {
   });
 }
 
+function initEmbedMode() {
+  if (window.self !== window.top) {
+    document.documentElement.classList.add('embedded');
+  }
+}
+
 function init() {
+  initEmbedMode();
   initTheme();
   buildSidebar();
   route();

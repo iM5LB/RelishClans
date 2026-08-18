@@ -20,9 +20,9 @@ RelishClans is a modern clan plugin for Paper servers:
 
 RelishClans ships as a **free** jar with core clan gameplay. A **license key** unlocks premium features (wars, clan fly, core upgrades, advanced flags, claim logs, and more).
 
-See [Free vs Premium](FreeVsPremium.md) and set `license-key` in `config.yml`. Purchase keys at the [M5LB Store](https://m5lb.run.place/?buy=relish-clans).
+See [Free vs Premium](FreeVsPremium.md) and set `license-key` in `config.yml`. Purchase keys at the [Relish Store](https://relishes.studio/product/relishclans).
 
-[![M5LB Store](assets/M5LBStore.png)](https://m5lb.run.place/?buy=relish-clans)
+[![Relish Store](assets/M5LBStore.png)](https://relishes.studio/product/relishclans)
 
 ## Quick Links
 
@@ -51,9 +51,9 @@ See [Free vs Premium](FreeVsPremium.md) and set `license-key` in `config.yml`. P
 
 ## Getting Help
 
-- Store: [m5lb.run.place](https://m5lb.run.place/?buy=relish-clans)
+- Store: [m5lb.run.place](https://relishes.studio/product/relishclans)
 - Modrinth: [modrinth.com/plugin/relishclans](https://modrinth.com/plugin/relishclans)
-- Discord: [Support server](https://discord.gg/jDr2KZcGXk)
+- Discord: [Support server](https://discord.gg/AdUjAtCsy6)
 - Donate: [creators.sa/m5lb](https://creators.sa/m5lb)
 
 ## Next Steps

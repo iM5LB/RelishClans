@@ -105,7 +105,7 @@ Always stop the server or `/clan reload` after hand-editing YAML.
 1. Enable `debug-mode: true` in `config.yml`, then `/clan reload` (or restart)
 2. Reproduce the issue — look for `[Debug]` lines (cores, claims, wars, saves, disable steps)
 3. Collect the full console log
-4. Ask on [Discord](https://discord.gg/jDr2KZcGXk)
+4. Ask on [Discord](https://discord.gg/AdUjAtCsy6)
 
 ## Related
 
